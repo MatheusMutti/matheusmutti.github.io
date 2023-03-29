@@ -1,0 +1,65 @@
+
+@font-face {
+	font-family : 'passionblack';
+	src: url(fonts/PassionOne-Black.ttf) format('opentype');
+}
+
+@font-face {
+	font-family : 'passionbold';
+	src: url(fonts/PassionOne-Bold.ttf) format('opentype');
+}
+
+@font-face {
+	font-family : 'passionreg';
+	src: url(fonts/PassionOne-Regular.ttf) format('opentype');
+}
+
+@font-face {
+	font-family : 'sriracha';
+	src: url(fonts/Sriracha-Regular.ttf) format('opentype');
+}
+
+header {
+
+    background-color: black;
+    width: 100%vp;
+    height: 500px;
+    vertical-align: middle;
+    text-align: center;
+}
+
+h1 {
+
+    font-size: 55px;
+    font-family: 'passionreg';
+    color: white;
+    margin-top: 0px;
+    padding: 0px;    
+    
+}
+
+h2 {
+
+    font-family: 'passionreg';
+    color: white;    
+    font-size: 20px;
+    font-weight: normal;
+    margin: 0px;
+    padding: 5px;    
+
+}
+
+div.imagem {
+
+
+}
+
+div#img1 {
+
+
+}
+
+div#img2 {
+
+
+}
